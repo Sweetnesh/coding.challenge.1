@@ -9,8 +9,9 @@
 
 
 ## Goal
-----
+---
 Create a currency monitoring Web application with the following functional requirements:
+---
 1. Provide users with the ability to add currencies (Supply simple validation on input for illegal characters or existing currencies)
 2. Display the following information for each currencies: symbol, price in HKD, percentage change over the past 1 month. You can use  historical data about currency from the internet, such as from xe.com
 3. Provide users with the ability to delete a currency from the list
@@ -23,6 +24,7 @@ Communication to get historical data from the internet MUST be done through the 
 ## Tools you need
 ---
 Here is a minimum list of prerequisites to install (listed in order):
+---
 1. install JDK, set environment variable JAVA_HOME and add to PATH
 	http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 2. install Ant, set environment variable ANT_HOME and add to PATH
